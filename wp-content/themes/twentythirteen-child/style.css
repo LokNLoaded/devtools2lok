@@ -13,6 +13,11 @@
 	display: none;
 }
 
+.site-footer .sidebar-container {
+    background-color: #000000;
+    padding: 20px 0;
+}
+
 .site {
 	background-color: #384399; 
 }
