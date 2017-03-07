@@ -1,0 +1,27 @@
+/*
+ Theme Name:   twentythirteen-child
+ Description:  Twenty Thirteen Child Theme
+ Author:       Russel Lok
+ Template:     twentythirteen
+ Version:      1.0
+*/
+
+@import url('../twentythirteen/style.css');
+@import url('https://fonts.googleapis.com/css?family=Harmattan|Open+Sans+Condensed:300');
+
+.site-info {
+	display: none;
+}
+
+.site {
+	background-color: #000000; 
+}
+
+.entry-title a, p, .entry-meta, .comments-link {
+	color: #FFFFFF;
+	font-family: Harmattan; 
+}
+
+header#masthead.site-header {
+	background-image: url(bluegreenbackground.jpg);
+}
