@@ -17,9 +17,14 @@
 	background-color: #000000; 
 }
 
-.entry-title a, p, .entry-meta, .comments-link {
+.entry-title a, .entry-meta, .comments-link {
 	color: #FFFFFF;
 	font-family: Harmattan; 
+}
+
+p {
+	color: #FFFFFF;
+	font-family: Open Sans Condensed; 
 }
 
 header#masthead.site-header {
